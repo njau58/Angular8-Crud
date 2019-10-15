@@ -1,6 +1,10 @@
 # EmployeeManagement
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
+## Employee List Page
+
+![image](https://user-images.githubusercontent.com/36881284/66809722-9a72d480-ef36-11e9-89a6-171239102d0e.png)
+
 ## Database server  
 Run `npm install -g json-server` then run `json-server --watch db.json`
 
