@@ -7,6 +7,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  
  ## Create Employee Form
 ![image](https://user-images.githubusercontent.com/36881284/66810600-3d781e00-ef38-11e9-860d-c841e222dbc6.png)
+ 
+  ## Employee Details Form
+![image](https://user-images.githubusercontent.com/36881284/66811286-8086c100-ef39-11e9-8d1d-99c01b6b199b.png)
+
 
 ## Database server  
 Run `npm install -g json-server` then run `json-server --watch db.json`
